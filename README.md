@@ -4,15 +4,15 @@
 
 ## 项目展示
 
-![首页截图](https://i.imgur.com/z8aQwT9.png)
+![首页截图](./docs/images/1.png)
 
 ### 日历组件
 
-![详情页截图](https://i.imgur.com/lajcwtb.png)
+![详情页截图](./docs/images/2.png)
 
 ### 网络加载中
 
-![功能演示](https://i.imgur.com/jzXOm9P.png)
+![功能演示](./docs/images/3.png)
 
 ## 技术栈
 
